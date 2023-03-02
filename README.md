@@ -1,4 +1,4 @@
-Dog version of [2048](https://0x0800.github.io/2048-CUPCAKES/) game
+Dog version of [2048 Cupcakes](https://0x0800.github.io/2048-CUPCAKES/) game
 ========================================================================
 
 Play here: https://schoolboycalvin.github.io/2048-dogs/
